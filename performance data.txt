@@ -1,0 +1,7 @@
+200:
+17214
+17230 on screen checking
+17220 old vec instead of ints
+ 1570 without rotation btw
+
+3196
